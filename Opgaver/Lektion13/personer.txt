@@ -1,0 +1,5 @@
+Name:Christoffer Age:19 Sex:M
+Name:Noemi Age:19 Sex:F
+Name:Jens Age:24 Sex:M
+Name:Torben Age:50 Sex:M
+Name:Signe Age:20 Sex:F
